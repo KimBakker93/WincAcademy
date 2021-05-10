@@ -1,0 +1,8 @@
+sold_id,bought_id,product_name,sold_date,sell_price
+1,1,potato,2021-05-12,2.6
+2,2,potato,2021-05-12,2.6
+3,3,potato,2021-05-12,2.6
+4,4,potato,2021-05-10,2.6
+5,5,potato,2021-05-10,2.6
+6,6,potato,2021-05-10,2.6
+
